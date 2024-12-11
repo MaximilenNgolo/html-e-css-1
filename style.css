@@ -1,0 +1,58 @@
+.alex{
+    height: 100px;
+    width: 100px;
+}
+
+nav{
+    background-color: beige;
+    display: flex;
+    justify-content: space-between;
+}
+.liste{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    gap: 15px;
+    justify-content: center;
+    align-items: center
+
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+    width: 300px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+   
+}
+
+article{
+    border: 1px solid black;
+}
+
+aside{
+    display: flex;
+    background-color: yellowgreen;
+    justify-content: center;
+    align-items: center;
+
+}
+
+main{
+    display: flex;
+    
+}
